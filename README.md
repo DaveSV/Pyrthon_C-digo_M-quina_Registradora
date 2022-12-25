@@ -1,5 +1,9 @@
 # Máquina Registradora
 
+Proyecto del curso Programación Orientada a Objetos con Python, Universidad Austral (Coursera)
+https://www.coursera.org/learn/programacion-python-objetos?specialization=python-espanol
+
+
 La meta en este proyecto es que puedas crear un aplicacion que utilice los diccionarios de python, tienes que realizar un programa que permita al gerente de una tienda ingresar n artículos con su respectivo precio a una estructura de datos. 
 
     Nota: antes de ingresar los artículos a la estructura de datos, 
